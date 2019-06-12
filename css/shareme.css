@@ -153,6 +153,12 @@ text-align: center;
   height: auto;
 }
 
+.responsive-a{
+  width: 50%;
+height: auto;
+
+}
+
 /*USER STORIES*/
 .user-stories {
   display: grid;
@@ -544,6 +550,8 @@ text-align: center;
   height: auto;
 
   }
+
+
 
   .responsive-a{
     width: 50%;
