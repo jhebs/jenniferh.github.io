@@ -591,11 +591,7 @@ height: auto;
     grid-gap: 0rem;
   }
 
-  .responsive{
-    width: 50%;
-  height: auto;
 
-  }
 
   .grid-columns-2 img {
     width: 75%;
@@ -614,7 +610,7 @@ height: auto;
   }
 
   .responsive{
-    width: 80%;
+width: 100%;
   height: auto;
 
   }
